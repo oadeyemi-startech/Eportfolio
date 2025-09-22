@@ -1,6 +1,6 @@
-<h1>Hi, my name is Oluwaseun Adeyemi! <br/> <a href="https://www.linkedin.com/in/oadeyemi04/">Information Technology Specialist</a> </h1>
+<h2>Hi, my name is Oluwaseun Adeyemi! <br/> <a href="https://www.linkedin.com/in/oadeyemi04/">Information Technology Specialist</a> </h2>
 
-<h2>👨‍💻 Information Technology & Security Projects:</h2>
+<h3>👨‍💻 Information Technology & Security Projects:</h3>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -12,10 +12,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="orijinaboyy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="oadeyemi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/orijinaboyy
-[instagram]: https://www.instagram.com/orijinaboyy/
 [linkedin]: https://linkedin.com/in/oadeyemi04
