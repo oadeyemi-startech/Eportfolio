@@ -1,4 +1,4 @@
-<h2>Hi, my name is Oluwaseun Adeyemi! <br/> <a href="https://www.linkedin.com/in/oadeyemi04/">Information Technology Specialist</a> </h2>
+<h2>Hi, my name is Oluwaseun Adeyemi!</h2>  <h3> <a href="https://www.linkedin.com/in/oadeyemi04/">Information Technology Specialist</a> </h3>
 
 <h3>👨‍💻 Information Technology & Security Projects:</h3>
 
