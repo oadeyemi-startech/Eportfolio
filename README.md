@@ -1,8 +1,8 @@
 <h2>Hi, my name is Oluwaseun Adeyemi!</h2>  <h3> <a href="https://www.linkedin.com/in/oadeyemi04/">Information Technology Specialist</a> </h3>
 
-<h3>👨‍💻 Information Technology & Security Projects:</h3>
+<h3>👨‍💻 Information Technology Support & Security Projects:</h3>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b> Identity and Access Management (IAM) </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
