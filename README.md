@@ -6,7 +6,7 @@ My journey in computer engineering technology has led me to develop a passion fo
 <h3>👨‍💻 Information Technology Support & Security Projects:</h3>
 
 - <b> Identity and Access Management (IAM) </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [User Accounts and Group Policy](https://github.com/oadeyemi-startech/IAM)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
