@@ -7,11 +7,8 @@ My journey in computer engineering technology has led me to develop a passion fo
 
 - <b> Identity and Access Management (IAM) </b>
   - [User Accounts and Group Policy](https://github.com/oadeyemi-startech/IAM)
+  <br/>
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h3>Connect with me:</h3>
 
