@@ -5,8 +5,8 @@ My journey in computer engineering technology has led me to develop a passion fo
 
 <h3>👨‍💻 Information Technology Support & Security Projects:</h3>
 
-- <b> Identity and Access Management (IAM) </b> <br/>
-  [Non-management User Accounts and Group Policy](https://oadeyemi-startech.github.io/IAM/)
+- <b> Active Directory Management </b> <br/>
+  [Identity and Access Management (IAM)](https://oadeyemi-startech.github.io/IAM/)
   <br/>
 - <b>Vulnerability Scan Report</b> <br/>
   [Nessus Vulnerability Scanning](https://oadeyemi-startech.github.io/vul-Report/)
