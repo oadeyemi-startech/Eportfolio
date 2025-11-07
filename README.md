@@ -10,6 +10,8 @@ My journey in computer engineering technology has led me to develop a passion fo
   <br/>
 - <b>Vulnerability Scan Report</b> <br/>
   [Nessus Vulnerability Scanning](https://oadeyemi-startech.github.io/vul-Report/)
+ - <b>Network Traffic Capture & Analysis</b> <br/>
+  [Wireshark Protocol Analyzer](https://oadeyemi-startech.github.io/wireshark/)
 - <b>Security Response & Forensics</b> <br/>
   [Autopsy Digital Forensics](https://oadeyemi-startech.github.io/dig-forensics/)
   
